@@ -1,0 +1,11 @@
+# config.yml
+author: Neil Wang
+
+# =================================================================
+# Product Information
+# =================================================================
+products:
+  - name: LINKSYS领势VELOP AC3900 双频Mesh智能分布式无线wifi别墅路由器
+    url: https://detail.tmall.com/item.htm?id=569478670461
+  - name: NETGEAR网件RBK20 三频千兆mesh分布式无线路由器高速家庭WIFI大户型别墅光纤系统
+    url: https://detail.tmall.com/item.htm?id=568592100982
